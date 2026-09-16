@@ -1,6 +1,6 @@
 {
   "name": "credencial-workshop-4blue",
-  "description": "Gerador de credenciais digitais para o Workshop Máquina de Lucros 4blue no Rio de Janeiro",
+  "description": "Gerador de credenciais digitais para o Workshop Máquina de Lucros 4blue",
   "private": true,
   "version": "0.0.0",
   "type": "module",
